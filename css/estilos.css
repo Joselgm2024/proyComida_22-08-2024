@@ -1,0 +1,26 @@
+
+*
+{
+    margin: 20px;
+}
+body
+{
+    background-color: cyan;
+}
+h1
+{
+    color:red;
+    font-size:50px;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+}
+p
+{
+    background-color: palegreen;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
